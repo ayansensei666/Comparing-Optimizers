@@ -1,0 +1,7 @@
+lr: 0.001
+batch_size: 64
+epochs: 10
+p_dropout: 0.3
+activation: relu
+optimizer: momentum
+subset_size: 10000
